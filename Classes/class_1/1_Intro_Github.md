@@ -59,7 +59,7 @@ It is a hosting service. It provides a "home" for your Git-based projects on the
 
 
 
-## **Clone **
+## **Clone**
 It is not the same as downloading. When we clone a repository, we copy the complete history of that repository. Your computer uses Git software to download the version history. Additionally,  we can make updates in the cloned repository that can be merged with the remote repository. When we download a repository, we do not copy the project history.
 
 
