@@ -84,7 +84,7 @@ The more detailed schedules can be found on the respective detailed schedule pag
 
 Previous indications for the correct development of the course:<br>
 
-1. The class zoom link will be the following for all [Link de zoom](https://zoom.us/j/4771998369?pwd=VFZXRlBSdHNES2JUcFRMenV1RVZhUT09), which you can access from 5:50 p.m.
+1. The class zoom link will be the following for all [Link de zoom](https://us02web.zoom.us/j/3033135078?pwd=ZWFwc2FPdmVuS2Z4cUJEZ3pPSzRkQT09), which you can access from 5:50 p.m.
 2. The class will develop as follows:<br>
     * Start :  6:05 p.m - 6:55 p.m<br>
     * Break :  6:55 p.m - 7:05 p.m<br>
@@ -98,8 +98,15 @@ Previous indications for the correct development of the course:<br>
 
 ## Works Teams
 
-|Team 1 - Alex| Team 2 - Antonio| Team 3 - Kevin| Team 4 - Anzony|
+|Team 1 - Paul| Team 2 - Renzo| Team 4 - Miguel| Team 4 - Miguel|
 |-----|----|----|----|
+|Alessandra Hidalgo|Elibeth Cirilo|Shirley Huerta|Joice Chavez|
+|Alexis Pujen|Alvaro Palma|Juan Diego Rivas|Jeremy Trujillo|
+|Miguel Salcedo|Brayahm Najarro|Gian Franco Damian|Franclin Unati|
+|Carlos Eduardo|Arlethe Arones|Joel Vicencio|Marcy Castro|
+|Scott Quintanilla|Patrick Melo|Joseph Mejia|Daniel Rivera|
+||||Ivan Del Aguila|
+
 
 
 
