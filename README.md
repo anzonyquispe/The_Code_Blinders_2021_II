@@ -98,7 +98,7 @@ Previous indications for the correct development of the course:<br>
 
 ## Works Teams
 
-|Team 1 - Paul| Team 2 - Renzo| Team 4 - Miguel| Team 4 - Miguel|
+|Team 1 - Paul| Team 2 - Raul| Team 4 - Miguel| Team 4 - Miguel|
 |-----|----|----|----|
 |Alessandra Hidalgo|Elibeth Cirilo|Shirley Huerta|Joice Chavez|
 |Alexis Pujen|Alvaro Palma|Juan Diego Rivas|Jeremy Trujillo|
