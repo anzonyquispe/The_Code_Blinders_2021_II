@@ -55,7 +55,8 @@ It is a hosting service. It provides a "home" for your Git-based projects on the
 * **Repository** : Set of files. It exists as a remote repository.
 * **Clone** : When wee clone a repository, we create a local copy of all the repository on our computer at that point in time. 
 * **Commit** : Snapshot of your repository. Git does not store data as a series of changesets or differences but instead as a series of **snapshots**.
-* **Branch** :  It is simply a lightweight movable pointer to one of these snapshots or commits.
+* **Branch** :  It is simply a lightweight movable pointer to one of these snapshots or commits. A independent line of development.
+* **Merge** :  Combine multiple sequence of commits to the main branch.
 
 
 
