@@ -98,12 +98,12 @@ Previous indications for the correct development of the course:<br>
 
 ## Works Teams
 
-|Team 1 - Paul| Team 2 - Raul| Team 4 - Miguel| Team 4 - Miguel|
-|-----|----|----|----|
-|Alessandra Hidalgo|Elibeth Cirilo|Shirley Huerta|Joice Chavez|
-|Alexis Pujen|Alvaro Palma|Juan Diego Rivas|Jeremy Trujillo|
-|Miguel Salcedo|Brayahm Najarro|Gian Franco Damian|Franclin Unati|
-|Carlos Eduardo|Arlethe Arones|Joel Vicencio|Marcy Castro|
+|Team 1 - Paul| Team 2 - Raul| Team 3 - Miguel| Team 4 - Miguel|Team 5 - Raul|
+|-----|----|----|----|----|
+|Alessandra Hidalgo|Elibeth Cirilo|Shirley Huerta|Joice Chavez|Gabriel Valdivia|
+|Alexis Pujen|Alvaro Palma|Juan Diego Rivas|Jeremy Trujillo|Rodrigo Quevedo|
+|Miguel Salcedo|Brayahm Najarro|Gian Franco Damian|Franclin Unati|Franklin Gomez|
+|Carlos Eduardo|Arlethe Arones|Joel Vicencio|Marcy Castro|Yamil Caballero|
 |Scott Quintanilla|Patrick Melo|Joseph Mejia|Daniel Rivera|
 ||||Ivan Del Aguila|
 
