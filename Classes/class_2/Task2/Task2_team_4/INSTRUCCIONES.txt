@@ -1,0 +1,13 @@
+
+En "Task2_team_ 4" Cree un nombre de archivo Python, por ejemplo: "Sub_group_ (?)".
+Creó el archivo "Sub_group_ (?)"
+
+La persona 1 debe incluir sus nombres y el desarrollo de tareas.
+La persona 2 debe dejar un espacio para colocar sus nombres y desarrollo de la tarea.
+
+Cada subgrupo crea su propio archivo Python.
+Utilice siempre su propia rama.
+
+Lo unes con el Issue #45 
+
+
