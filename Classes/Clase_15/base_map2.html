@@ -23,7 +23,7 @@
             <meta name="viewport" content="width=device-width,
                 initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
             <style>
-                #map_d417eb06e8564f3b8fe8d08e5e3538b2 {
+                #map_349ec814fa954a768d9c2d53d3498706 {
                     position: relative;
                     width: 100.0%;
                     height: 100.0%;
@@ -35,29 +35,30 @@
 </head>
 <body>    
     
-            <div class="folium-map" id="map_d417eb06e8564f3b8fe8d08e5e3538b2" ></div>
+            <div class="folium-map" id="map_349ec814fa954a768d9c2d53d3498706" ></div>
         
 </body>
 <script>    
     
-            var map_d417eb06e8564f3b8fe8d08e5e3538b2 = L.map(
-                "map_d417eb06e8564f3b8fe8d08e5e3538b2",
+            var map_349ec814fa954a768d9c2d53d3498706 = L.map(
+                "map_349ec814fa954a768d9c2d53d3498706",
                 {
-                    center: [-11.890379620355189, -77.04171618935321],
+                    center: [40.73061, -73.935242],
                     crs: L.CRS.EPSG3857,
-                    zoom: 10,
+                    zoom: 12,
                     zoomControl: true,
-                    preferCanvas: false,
+                    preferCanvas: true,
                 }
             );
+            L.control.scale().addTo(map_349ec814fa954a768d9c2d53d3498706);
 
             
 
         
     
-            var tile_layer_9356ef5cc49e48f4be8d42e75952f4ac = L.tileLayer(
-                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
-                {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
-            ).addTo(map_d417eb06e8564f3b8fe8d08e5e3538b2);
+            var tile_layer_547fb7ac5c8d4403a4a667ffd6ddb2c1 = L.tileLayer(
+                "https://stamen-tiles-{s}.a.ssl.fastly.net/toner/{z}/{x}/{y}.png",
+                {"attribution": "Map tiles by \u003ca href=\"http://stamen.com\"\u003eStamen Design\u003c/a\u003e, under \u003ca href=\"http://creativecommons.org/licenses/by/3.0\"\u003eCC BY 3.0\u003c/a\u003e. Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_349ec814fa954a768d9c2d53d3498706);
         
 </script>
